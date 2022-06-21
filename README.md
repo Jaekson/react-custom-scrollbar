@@ -1,3 +1,3 @@
-# react-ts-rowge7
+# React-TS Custom Scroll Bar
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-rowge7)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-custom-scrollbar)
